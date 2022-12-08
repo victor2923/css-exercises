@@ -1,0 +1,18 @@
+p{
+    background-color: lightpink;
+    font-family: Vedana, "DejaVu Sans", sans-serif;
+}
+
+#second{
+    color: blue;
+    font-size: 36px;
+}
+
+.size24{
+    font-size: 24px;
+}
+
+#fourth{
+    background-color: green;
+    font-weight: bold;
+}
